@@ -1,2 +1,2 @@
-# )la Mundo
- primeiro repositorio
+# Olá, Mundo!
+ primeiro repositorio e aula.
